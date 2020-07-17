@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "249400189524",
+    "firebase_url": "https://project1-be14c.firebaseio.com",
+    "project_id": "project1-be14c",
+    "storage_bucket": "project1-be14c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249400189524:android:e79fedce2d7ec1008803c1",
+        "android_client_info": {
+          "package_name": "com.slimechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249400189524-ol1iopqk64jl38iap1jlgi8ngi7hu1n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Ss8pv_Hb9LktjA34ioYcUqyq3zdfAVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249400189524-ol1iopqk64jl38iap1jlgi8ngi7hu1n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249400189524:android:c72dad8ed014337e8803c1",
+        "android_client_info": {
+          "package_name": "com.slimeid.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249400189524-h6qe1ml8d7ucc3j3oiougvdvbrobbpei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slimeid.chat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "249400189524-ol1iopqk64jl38iap1jlgi8ngi7hu1n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Ss8pv_Hb9LktjA34ioYcUqyq3zdfAVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249400189524-ol1iopqk64jl38iap1jlgi8ngi7hu1n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
