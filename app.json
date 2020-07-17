@@ -1,0 +1,17 @@
+{
+  "name": "slimechat",
+  "displayName": "slimechat",
+  "splash": {
+    "image": "./assets/splash.png",
+    "backgroundColor": "#ffffff",
+    "resizeMode":"contain"
+  },
+  "expo": {
+    "name": "slimechat",
+    "slug": "slimechat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
